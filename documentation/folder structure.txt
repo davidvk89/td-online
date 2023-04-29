@@ -1,0 +1,23 @@
+-API -> Contains webserver API endpoints and classes with it's logic.
+
+-dist -> Build folder where production game files are placed after npm run build.
+
+-documentation -> contains documentation about the application.
+
+-includes -> contains files that the application builds on and I want to 
+	     have available offline.
+             some examples of files that are placed here are bootstrap, jQuery etc.
+
+-node_modules -> npm module installation folder
+
+-public -> contains the public game assets such as spritesheets, images etc.
+	   for the dev version of the game. 
+
+-server_modules -> contains server logic, classes and tests for the server-side
+		   
+-src -> contains all JS files related to the dev version of the game. 
+	add all game-related JS here.
+
+-vendor -> Third party libraries and frameworks installed by composer
+
+- view -> contains all display components loaded by the server. 

@@ -1,0 +1,25 @@
+server starts->
+INITIALIZE ENVIRONMENT VARIABLES, THESE WILL BE USED THROUGHOUT THE SERVER APPLICATION.
+
+authenticate the client ->
+//AUTHENTIFICATION STARTS:
+//does the client claim to be authenticated?
+
+//CASE: YES -THE CLIENT MAKES A CLAIM BY COOKIE (name=auth)
+    The only way the server recognizes a claim is by a cookie named auth. This cookie contains an 
+    encoded JWT with the required credentials. The Firebase JWT framework is in use to encode and 
+    decode JWT's.
+    
+//--is this claim valid?
+//--yes
+//----load application
+
+//--no
+//----remove cookie
+//----load launcher
+
+//CASE: NO - THE CLIENT DOES NOT MAKE A CLAIM
+    Without a valid auth token the server will load the launcher which enables a user to 
+    authenticate the application. 
+
+//--load launcher to make a claim.

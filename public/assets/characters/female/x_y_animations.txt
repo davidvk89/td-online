@@ -1,0 +1,117 @@
+walk-up 	
+position -> 0:512, 
+size -> 576:64
+
+walk-left
+position-> 0:576,
+size -> 576:64
+
+walk-down
+position -> 0:640,
+size -> 576:64
+
+walk-right
+position -> 0:704
+size -> 576:64
+
+tool-up-frame_1 
+position 32:1376
+size -> 64:64
+
+tool-up-frame_2
+position 160:1376
+size 	64x64
+
+tool-up-frame_3
+position 288:1376
+size	64x64
+
+tool-up-frame_4
+position 416:1376
+size	64x64
+
+tool-up-frame_5
+position 544:1376
+size	64x64
+
+tool-up-frame_6
+position 672:1376
+size	64x64
+
+
+tool-left-frame_1 
+position 32 1504
+size -> 64 64
+
+tool-left-frame_2
+position 160 1504
+size 	64x64
+
+tool-left-frame_3
+position 288 1504
+size	64x64
+
+tool-left-frame_4
+position 416 1504
+size	64x64
+
+tool-left-frame_5
+position 544 1504
+size	64x64
+
+tool-left-frame_6
+position 672 1504
+size	64x64
+
+
+
+tool-down-frame_1 
+position 32 1632
+size -> 64 64
+
+tool-down-frame_2
+position 160 1632
+size 	64x64
+
+tool-down-frame_3
+position 288 1632
+size	64x64
+
+tool-down-frame_4
+position 416 1632
+size	64x64
+
+tool-down-frame_5
+position 544 1632
+size	64x64
+
+tool-down-frame_6
+position 672 1632
+size	64x64
+
+
+
+
+tool-right-frame_1 
+position 32 1760
+size -> 64 64
+
+tool-right-frame_2
+position 160 1760
+size 	64x64
+
+tool-right-frame_3
+position 288 1760
+size	64x64
+
+tool-right-frame_4
+position 416 1760
+size	64x64
+
+tool-right-frame_5
+position 544 1760
+size	64x64
+
+tool-right-frame_6
+position 672 1760
+size	64x64

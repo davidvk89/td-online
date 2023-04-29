@@ -1,0 +1,860 @@
+{
+	"textures": [
+		{
+			"image": "punk.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 127,
+				"h": 242
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "punk/death/Punk_death-5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 39,
+						"w": 27,
+						"h": 9
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 27,
+						"h": 9
+					}
+				},
+				{
+					"filename": "punk/death/5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 36,
+						"w": 27,
+						"h": 12
+					},
+					"frame": {
+						"x": 30,
+						"y": 1,
+						"w": 27,
+						"h": 12
+					}
+				},
+				{
+					"filename": "punk/death/4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 33,
+						"w": 27,
+						"h": 15
+					},
+					"frame": {
+						"x": 59,
+						"y": 1,
+						"w": 27,
+						"h": 15
+					}
+				},
+				{
+					"filename": "punk/double_jump/1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 21,
+						"w": 30,
+						"h": 22
+					},
+					"frame": {
+						"x": 88,
+						"y": 1,
+						"w": 30,
+						"h": 22
+					}
+				},
+				{
+					"filename": "punk/double_jump/2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 25,
+						"h": 27
+					},
+					"frame": {
+						"x": 1,
+						"y": 12,
+						"w": 25,
+						"h": 27
+					}
+				},
+				{
+					"filename": "punk/death/3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 20,
+						"w": 22,
+						"h": 28
+					},
+					"frame": {
+						"x": 28,
+						"y": 15,
+						"w": 22,
+						"h": 28
+					}
+				},
+				{
+					"filename": "punk/double_jump/4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 14,
+						"w": 33,
+						"h": 31
+					},
+					"frame": {
+						"x": 52,
+						"y": 18,
+						"w": 33,
+						"h": 31
+					}
+				},
+				{
+					"filename": "punk/double_jump/3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 8,
+						"w": 29,
+						"h": 32
+					},
+					"frame": {
+						"x": 87,
+						"y": 25,
+						"w": 29,
+						"h": 32
+					}
+				},
+				{
+					"filename": "punk/death/2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 15,
+						"w": 25,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 41,
+						"w": 25,
+						"h": 33
+					}
+				},
+				{
+					"filename": "punk/run/3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 15,
+						"w": 22,
+						"h": 33
+					},
+					"frame": {
+						"x": 28,
+						"y": 45,
+						"w": 22,
+						"h": 33
+					}
+				},
+				{
+					"filename": "punk/jump/3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 8,
+						"w": 27,
+						"h": 32
+					},
+					"frame": {
+						"x": 52,
+						"y": 51,
+						"w": 27,
+						"h": 32
+					}
+				},
+				{
+					"filename": "punk/jump/2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 10,
+						"w": 26,
+						"h": 33
+					},
+					"frame": {
+						"x": 81,
+						"y": 59,
+						"w": 26,
+						"h": 33
+					}
+				},
+				{
+					"filename": "punk/double_jump/6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 14,
+						"w": 17,
+						"h": 34
+					},
+					"frame": {
+						"x": 109,
+						"y": 59,
+						"w": 17,
+						"h": 34
+					}
+				},
+				{
+					"filename": "punk/run/5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 14,
+						"w": 17,
+						"h": 34
+					},
+					"frame": {
+						"x": 109,
+						"y": 59,
+						"w": 17,
+						"h": 34
+					}
+				},
+				{
+					"filename": "punk/run/6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 15,
+						"w": 21,
+						"h": 33
+					},
+					"frame": {
+						"x": 1,
+						"y": 76,
+						"w": 21,
+						"h": 33
+					}
+				},
+				{
+					"filename": "punk/kick/3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 14,
+						"w": 20,
+						"h": 34
+					},
+					"frame": {
+						"x": 24,
+						"y": 80,
+						"w": 20,
+						"h": 34
+					}
+				},
+				{
+					"filename": "punk/double_jump/5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 29,
+						"h": 34
+					},
+					"frame": {
+						"x": 46,
+						"y": 85,
+						"w": 29,
+						"h": 34
+					}
+				},
+				{
+					"filename": "punk/run/4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 14,
+						"w": 29,
+						"h": 34
+					},
+					"frame": {
+						"x": 46,
+						"y": 85,
+						"w": 29,
+						"h": 34
+					}
+				},
+				{
+					"filename": "punk/punch/4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 14,
+						"w": 18,
+						"h": 34
+					},
+					"frame": {
+						"x": 77,
+						"y": 94,
+						"w": 18,
+						"h": 34
+					}
+				},
+				{
+					"filename": "punk/punch/5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 14,
+						"w": 22,
+						"h": 34
+					},
+					"frame": {
+						"x": 97,
+						"y": 95,
+						"w": 22,
+						"h": 34
+					}
+				},
+				{
+					"filename": "punk/run/1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 14,
+						"w": 21,
+						"h": 34
+					},
+					"frame": {
+						"x": 1,
+						"y": 111,
+						"w": 21,
+						"h": 34
+					}
+				},
+				{
+					"filename": "punk/run/2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 14,
+						"w": 16,
+						"h": 34
+					},
+					"frame": {
+						"x": 24,
+						"y": 116,
+						"w": 16,
+						"h": 34
+					}
+				},
+				{
+					"filename": "punk/death/1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 13,
+						"w": 19,
+						"h": 35
+					},
+					"frame": {
+						"x": 42,
+						"y": 121,
+						"w": 19,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/hurt/1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 13,
+						"w": 19,
+						"h": 35
+					},
+					"frame": {
+						"x": 42,
+						"y": 121,
+						"w": 19,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/idle/1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 13,
+						"w": 19,
+						"h": 35
+					},
+					"frame": {
+						"x": 42,
+						"y": 121,
+						"w": 19,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/kick/1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 13,
+						"w": 19,
+						"h": 35
+					},
+					"frame": {
+						"x": 42,
+						"y": 121,
+						"w": 19,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/punch/1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 13,
+						"w": 19,
+						"h": 35
+					},
+					"frame": {
+						"x": 42,
+						"y": 121,
+						"w": 19,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/hurt/2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 23,
+						"h": 35
+					},
+					"frame": {
+						"x": 63,
+						"y": 130,
+						"w": 23,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/idle/2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 13,
+						"w": 19,
+						"h": 35
+					},
+					"frame": {
+						"x": 88,
+						"y": 131,
+						"w": 19,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/kick/4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 13,
+						"w": 16,
+						"h": 35
+					},
+					"frame": {
+						"x": 109,
+						"y": 131,
+						"w": 16,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/idle/3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 13,
+						"w": 20,
+						"h": 35
+					},
+					"frame": {
+						"x": 1,
+						"y": 147,
+						"w": 20,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/kick/6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 13,
+						"w": 15,
+						"h": 35
+					},
+					"frame": {
+						"x": 23,
+						"y": 152,
+						"w": 15,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/idle/4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 13,
+						"w": 20,
+						"h": 35
+					},
+					"frame": {
+						"x": 40,
+						"y": 158,
+						"w": 20,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/kick/2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 13,
+						"w": 22,
+						"h": 35
+					},
+					"frame": {
+						"x": 62,
+						"y": 167,
+						"w": 22,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/kick/5.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 13,
+						"w": 23,
+						"h": 35
+					},
+					"frame": {
+						"x": 86,
+						"y": 168,
+						"w": 23,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/punch/6.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 13,
+						"w": 17,
+						"h": 35
+					},
+					"frame": {
+						"x": 1,
+						"y": 184,
+						"w": 17,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/punch/2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 13,
+						"w": 21,
+						"h": 35
+					},
+					"frame": {
+						"x": 20,
+						"y": 195,
+						"w": 21,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/punch/3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 13,
+						"w": 22,
+						"h": 35
+					},
+					"frame": {
+						"x": 43,
+						"y": 204,
+						"w": 22,
+						"h": 35
+					}
+				},
+				{
+					"filename": "punk/jump/1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 12,
+						"w": 25,
+						"h": 36
+					},
+					"frame": {
+						"x": 67,
+						"y": 205,
+						"w": 25,
+						"h": 36
+					}
+				},
+				{
+					"filename": "punk/jump/4.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 48,
+						"h": 48
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 29,
+						"h": 36
+					},
+					"frame": {
+						"x": 94,
+						"y": 205,
+						"w": 29,
+						"h": 36
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:599f9f8910abccd07a4dd804f91337e2:c0280a980c1a0eae92912a0de830e646:a77ca2a9ca2ebb9bae6af17491838d89$"
+	}
+}
